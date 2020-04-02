@@ -65,8 +65,7 @@ testAddProdutoCarrinho,produto,Duration(ms),Duration(ms),Duration(ms),Duration(m
 
 
 #### Assista ao vídeo da execução da automação
-[![Automação](http://img.youtube.com/vi/2P3BNNU_Mk0/0.jpg)](https://youtu.be/2P3BNNU_Mk0"Video de introdução")
-
+[![Automação](http://img.youtube.com/vi/2P3BNNU_Mk0/0.jpg)](https://youtu.be/2P3BNNU_Mk0 "Video de introdução")
 
 A documentação com os cenários segue em anexo
 
